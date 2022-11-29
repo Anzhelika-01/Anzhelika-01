@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anzhelika-01
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Computer systems and technologies, advanced Java and DB.
+- 🌱 I’m currently learning Computer systems and technologies and Java (Spring)
 - 📫 How to reach me kotevaanzhelika@gmail.com .
 
 <!---
